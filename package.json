@@ -1,0 +1,19 @@
+{
+  "name": "test-resonitelink-js",
+  "version": "1.0.0",
+  "description": "Bug report project for ResoniteLink.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "start:ts": "node --loader ts-node/esm index.ts"
+  },
+  "dependencies": {
+    "resonitelink.js": "file:./ResoniteLink.js"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
