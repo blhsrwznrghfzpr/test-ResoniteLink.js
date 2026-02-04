@@ -1,5 +1,7 @@
 # ResoniteLink.js Bug Report Reproduction
 
+This repository was created to report [xhayper/ResoniteLink.js#1](https://github.com/xhayper/ResoniteLink.js/issues/1).
+
 This repository reproduces a circular dependency issue found in [ResoniteLink.js](https://github.com/xhayper/ResoniteLink.js).
 
 ## Issue
